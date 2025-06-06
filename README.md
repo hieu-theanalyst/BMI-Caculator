@@ -1,2 +1,2 @@
-# BMI-Caculator
-BMI Calculator
+# Projects
+My Projects
