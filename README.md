@@ -1,2 +1,2 @@
 # BMI-Caculator
-BMI Cauculator
+BMI Calculator
